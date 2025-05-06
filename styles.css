@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f7fa;
+    color: #333;
+  }
+  
+  header, .servicios, .precios, .contacto {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  header {
+    background: #4A90E2;
+    color: white;
+  }
+  
+  .icono {
+    width: 80px;
+    margin: 20px 0;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  .precios {
+    background: #ffffff;
+  }
+  
+  .precio-item {
+    margin: 20px 0;
+  }
+  
+  .precio {
+    font-size: 32px;
+    color: #27ae60;
+    font-weight: bold;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input, textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 12px;
+    background: #4A90E2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #357ABD;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background: #eee;
+    font-size: 14px;
+  }
+  
