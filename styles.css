@@ -13,14 +13,18 @@ body {
   }
   
   header {
-    background: #4A90E2;
+    background: #cbad88;
     color: white;
   }
   
   .icono {
-    width: 80px;
+    width: 100px;
+    height: 100px;
     margin: 20px 0;
+    
+    
   }
+  
   
   h1, h2 {
     margin-bottom: 10px;
@@ -36,7 +40,7 @@ body {
   
   .precio {
     font-size: 32px;
-    color: #27ae60;
+    color: #55a476;
     font-weight: bold;
   }
   
